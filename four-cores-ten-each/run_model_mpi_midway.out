@@ -1,0 +1,377 @@
+params_resp for rank 1 : [(0.0001, 'NONE', 'high', 'high', 200, 300), (0.0001, 'NONE', 'high', 'high', 200, 500), (0.0001, 'NONE', 'high', 'high', 200, 700), (0.0001, 'NONE', 'high', 'high', 200, 900), (0.0001, 'NONE', 'high', 'high', 300, 200), (0.0001, 'NONE', 'high', 'high', 300, 300), (0.0001, 'NONE', 'high', 'high', 300, 500), (0.0001, 'NONE', 'high', 'high', 300, 700), (0.0001, 'NONE', 'high', 'high', 300, 900), (0.0001, 'NONE', 'high', 'high', 400, 200)]
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 300) took 0.03901815414428711 to run on rank 1
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 500) took 0.07788419723510742 to run on rank 1
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 700) took 0.1194000244140625 to run on rank 1
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 900) took 0.16386818885803223 to run on rank 1
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 200) took 0.20000720024108887 to run on rank 1
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 300) took 0.2375779151916504 to run on rank 1
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 500) took 0.2884864807128906 to run on rank 1
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 700) took 0.3296940326690674 to run on rank 1
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 900) took 0.3759427070617676 to run on rank 1
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 400
+model with params (0.0001, 'NONE', 'high', 'high', 400, 200) took 0.41988563537597656 to run on rank 1
+size of results_dicts from rank 1 : 10
+type of results_dicts from rank 1 : <class 'list'>
+params_resp for rank 3 : [(0.0001, 'NONE', 'high', 'high', 200, 700), (0.0001, 'NONE', 'high', 'high', 200, 900), (0.0001, 'NONE', 'high', 'high', 300, 200), (0.0001, 'NONE', 'high', 'high', 300, 300), (0.0001, 'NONE', 'high', 'high', 300, 500), (0.0001, 'NONE', 'high', 'high', 300, 700), (0.0001, 'NONE', 'high', 'high', 300, 900), (0.0001, 'NONE', 'high', 'high', 400, 200), (0.0001, 'NONE', 'high', 'high', 400, 300), (0.0001, 'NONE', 'high', 'high', 400, 500)]
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 700) took 0.049556732177734375 to run on rank 3
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 900) took 0.09390974044799805 to run on rank 3
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 200) took 0.1447763442993164 to run on rank 3
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 300) took 0.18803977966308594 to run on rank 3
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 500) took 0.2413041591644287 to run on rank 3
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 700) took 0.28791046142578125 to run on rank 3
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 900) took 0.34148430824279785 to run on rank 3
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 400
+model with params (0.0001, 'NONE', 'high', 'high', 400, 200) took 0.3814411163330078 to run on rank 3
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 400
+model with params (0.0001, 'NONE', 'high', 'high', 400, 300) took 0.42968249320983887 to run on rank 3
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 400
+model with params (0.0001, 'NONE', 'high', 'high', 400, 500) took 0.5059850215911865 to run on rank 3
+size of results_dicts from rank 3 : 10
+type of results_dicts from rank 3 : <class 'list'>
+params_resp for rank 2 : [(0.0001, 'NONE', 'high', 'high', 200, 500), (0.0001, 'NONE', 'high', 'high', 200, 700), (0.0001, 'NONE', 'high', 'high', 200, 900), (0.0001, 'NONE', 'high', 'high', 300, 200), (0.0001, 'NONE', 'high', 'high', 300, 300), (0.0001, 'NONE', 'high', 'high', 300, 500), (0.0001, 'NONE', 'high', 'high', 300, 700), (0.0001, 'NONE', 'high', 'high', 300, 900), (0.0001, 'NONE', 'high', 'high', 400, 200), (0.0001, 'NONE', 'high', 'high', 400, 300)]
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 500) took 0.0433955192565918 to run on rank 2
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 700) took 0.08494710922241211 to run on rank 2
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 900) took 0.13126826286315918 to run on rank 2
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 200) took 0.16630887985229492 to run on rank 2
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 300) took 0.20464134216308594 to run on rank 2
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 500) took 0.24720478057861328 to run on rank 2
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 700) took 0.29474925994873047 to run on rank 2
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 900) took 0.3557393550872803 to run on rank 2
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 400
+model with params (0.0001, 'NONE', 'high', 'high', 400, 200) took 0.3941051959991455 to run on rank 2
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 400
+model with params (0.0001, 'NONE', 'high', 'high', 400, 300) took 0.4365365505218506 to run on rank 2
+size of results_dicts from rank 2 : 10
+type of results_dicts from rank 2 : <class 'list'>
+params_resp for rank 0 : [(0.0001, 'NONE', 'high', 'high', 200, 200), (0.0001, 'NONE', 'high', 'high', 200, 300), (0.0001, 'NONE', 'high', 'high', 200, 500), (0.0001, 'NONE', 'high', 'high', 200, 700), (0.0001, 'NONE', 'high', 'high', 200, 900), (0.0001, 'NONE', 'high', 'high', 300, 200), (0.0001, 'NONE', 'high', 'high', 300, 300), (0.0001, 'NONE', 'high', 'high', 300, 500), (0.0001, 'NONE', 'high', 'high', 300, 700), (0.0001, 'NONE', 'high', 'high', 300, 900)]
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 200) took 0.03998923301696777 to run on rank 0
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 300) took 0.0771341323852539 to run on rank 0
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 500) took 0.11221790313720703 to run on rank 0
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 700) took 0.1639418601989746 to run on rank 0
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 200
+model with params (0.0001, 'NONE', 'high', 'high', 200, 900) took 0.21065092086791992 to run on rank 0
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 200) took 0.24845194816589355 to run on rank 0
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 300) took 0.2841675281524658 to run on rank 0
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 500) took 0.33391475677490234 to run on rank 0
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 700) took 0.376448392868042 to run on rank 0
+model prob of violence: 0.0001
+model govt policy: NONE
+model govt reactive lvl: high
+model palestinian discontent: high
+current id pre-IsraeliGovt 300
+model with params (0.0001, 'NONE', 'high', 'high', 300, 900) took 0.42925405502319336 to run on rank 0
+size of results_dicts from rank 0 : 10
+type of results_dicts from rank 0 : <class 'list'>
+size results dict: 40
+total_num_attacks 216
+total_num_attacks 216
+total_num_attacks 208
+total_num_attacks 238
+total_num_attacks 203
+total_num_attacks 316
+total_num_attacks 313
+total_num_attacks 327
+total_num_attacks 312
+total_num_attacks 327
+total_num_attacks 208
+total_num_attacks 204
+total_num_attacks 212
+total_num_attacks 214
+total_num_attacks 309
+total_num_attacks 310
+total_num_attacks 340
+total_num_attacks 308
+total_num_attacks 308
+total_num_attacks 423
+total_num_attacks 213
+total_num_attacks 216
+total_num_attacks 211
+total_num_attacks 314
+total_num_attacks 320
+total_num_attacks 315
+total_num_attacks 315
+total_num_attacks 338
+total_num_attacks 412
+total_num_attacks 428
+total_num_attacks 226
+total_num_attacks 208
+total_num_attacks 336
+total_num_attacks 316
+total_num_attacks 332
+total_num_attacks 312
+total_num_attacks 315
+total_num_attacks 412
+total_num_attacks 430
+total_num_attacks 477
+max attacks occurred with params: (0.0001, 'NONE', 'high', 'high', 400, 500)
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+final_pop 0
+highest pop occurred with: (0.0001, 'NONE', 'high', 'high', 400, 500)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 200)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 300)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 500)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 700)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 900)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 200)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 300)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 500)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 700)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 900)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 300)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 500)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 700)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 900)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 200)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 300)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 500)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 700)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 900)
+considering run with params (0.0001, 'NONE', 'high', 'high', 400, 200)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 500)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 700)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 900)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 200)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 300)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 500)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 700)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 900)
+considering run with params (0.0001, 'NONE', 'high', 'high', 400, 200)
+considering run with params (0.0001, 'NONE', 'high', 'high', 400, 300)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 700)
+considering run with params (0.0001, 'NONE', 'high', 'high', 200, 900)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 200)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 300)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 500)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 700)
+considering run with params (0.0001, 'NONE', 'high', 'high', 300, 900)
+considering run with params (0.0001, 'NONE', 'high', 'high', 400, 200)
+considering run with params (0.0001, 'NONE', 'high', 'high', 400, 300)
+considering run with params (0.0001, 'NONE', 'high', 'high', 400, 500)
+final results from all runs: [{'params': (0.0001, 'NONE', 'high', 'high', 200, 200), 'final_pop': 0, 'total_num_attacks': 216, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 24, 'num_indisc_conc': 10, 'num_targ_repr': 22, 'num_indisc_repr': 28}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 300), 'final_pop': 0, 'total_num_attacks': 216, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 30, 'num_indisc_conc': 29, 'num_targ_repr': 33, 'num_indisc_repr': 31}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 500), 'final_pop': 0, 'total_num_attacks': 208, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 50, 'num_indisc_conc': 48, 'num_targ_repr': 72, 'num_indisc_repr': 67}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 700), 'final_pop': 0, 'total_num_attacks': 238, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 76, 'num_indisc_conc': 74, 'num_targ_repr': 94, 'num_indisc_repr': 74}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 900), 'final_pop': 0, 'total_num_attacks': 203, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 93, 'num_indisc_conc': 89, 'num_targ_repr': 99, 'num_indisc_repr': 95}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 200), 'final_pop': 0, 'total_num_attacks': 316, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 19, 'num_indisc_conc': 24, 'num_targ_repr': 25, 'num_indisc_repr': 29}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 300), 'final_pop': 0, 'total_num_attacks': 313, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 20, 'num_indisc_conc': 30, 'num_targ_repr': 36, 'num_indisc_repr': 31}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 500), 'final_pop': 0, 'total_num_attacks': 327, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 50, 'num_indisc_conc': 51, 'num_targ_repr': 68, 'num_indisc_repr': 62}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 700), 'final_pop': 0, 'total_num_attacks': 312, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 74, 'num_indisc_conc': 65, 'num_targ_repr': 64, 'num_indisc_repr': 77}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 900), 'final_pop': 0, 'total_num_attacks': 327, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 87, 'num_indisc_conc': 87, 'num_targ_repr': 106, 'num_indisc_repr': 94}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 300), 'final_pop': 0, 'total_num_attacks': 208, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 31, 'num_indisc_conc': 37, 'num_targ_repr': 37, 'num_indisc_repr': 29}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 500), 'final_pop': 0, 'total_num_attacks': 204, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 48, 'num_indisc_conc': 56, 'num_targ_repr': 74, 'num_indisc_repr': 54}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 700), 'final_pop': 0, 'total_num_attacks': 212, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 71, 'num_indisc_conc': 57, 'num_targ_repr': 70, 'num_indisc_repr': 78}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 900), 'final_pop': 0, 'total_num_attacks': 214, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 107, 'num_indisc_conc': 74, 'num_targ_repr': 85, 'num_indisc_repr': 105}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 200), 'final_pop': 0, 'total_num_attacks': 309, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 18, 'num_indisc_conc': 21, 'num_targ_repr': 25, 'num_indisc_repr': 22}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 300), 'final_pop': 0, 'total_num_attacks': 310, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 22, 'num_indisc_conc': 28, 'num_targ_repr': 29, 'num_indisc_repr': 43}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 500), 'final_pop': 0, 'total_num_attacks': 340, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 51, 'num_indisc_conc': 44, 'num_targ_repr': 53, 'num_indisc_repr': 69}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 700), 'final_pop': 0, 'total_num_attacks': 308, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 57, 'num_indisc_conc': 63, 'num_targ_repr': 69, 'num_indisc_repr': 98}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 900), 'final_pop': 0, 'total_num_attacks': 308, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 111, 'num_indisc_conc': 92, 'num_targ_repr': 89, 'num_indisc_repr': 99}, {'params': (0.0001, 'NONE', 'high', 'high', 400, 200), 'final_pop': 0, 'total_num_attacks': 423, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]], 'num_targ_conc': 21, 'num_indisc_conc': 22, 'num_targ_repr': 23, 'num_indisc_repr': 30}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 500), 'final_pop': 0, 'total_num_attacks': 213, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 40, 'num_indisc_conc': 54, 'num_targ_repr': 64, 'num_indisc_repr': 64}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 700), 'final_pop': 0, 'total_num_attacks': 216, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 61, 'num_indisc_conc': 69, 'num_targ_repr': 80, 'num_indisc_repr': 75}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 900), 'final_pop': 0, 'total_num_attacks': 211, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 74, 'num_indisc_conc': 113, 'num_targ_repr': 88, 'num_indisc_repr': 102}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 200), 'final_pop': 0, 'total_num_attacks': 314, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 18, 'num_indisc_conc': 21, 'num_targ_repr': 26, 'num_indisc_repr': 24}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 300), 'final_pop': 0, 'total_num_attacks': 320, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 25, 'num_indisc_conc': 37, 'num_targ_repr': 36, 'num_indisc_repr': 32}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 500), 'final_pop': 0, 'total_num_attacks': 315, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 54, 'num_indisc_conc': 44, 'num_targ_repr': 71, 'num_indisc_repr': 58}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 700), 'final_pop': 0, 'total_num_attacks': 315, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 66, 'num_indisc_conc': 70, 'num_targ_repr': 86, 'num_indisc_repr': 87}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 900), 'final_pop': 0, 'total_num_attacks': 338, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 86, 'num_indisc_conc': 91, 'num_targ_repr': 103, 'num_indisc_repr': 111}, {'params': (0.0001, 'NONE', 'high', 'high', 400, 200), 'final_pop': 0, 'total_num_attacks': 412, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]], 'num_targ_conc': 20, 'num_indisc_conc': 17, 'num_targ_repr': 20, 'num_indisc_repr': 27}, {'params': (0.0001, 'NONE', 'high', 'high', 400, 300), 'final_pop': 0, 'total_num_attacks': 428, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]], 'num_targ_conc': 23, 'num_indisc_conc': 25, 'num_targ_repr': 32, 'num_indisc_repr': 43}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 700), 'final_pop': 0, 'total_num_attacks': 226, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 78, 'num_indisc_conc': 55, 'num_targ_repr': 87, 'num_indisc_repr': 79}, {'params': (0.0001, 'NONE', 'high', 'high', 200, 900), 'final_pop': 0, 'total_num_attacks': 208, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 83, 'num_indisc_conc': 86, 'num_targ_repr': 92, 'num_indisc_repr': 97}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 200), 'final_pop': 0, 'total_num_attacks': 336, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 13, 'num_indisc_conc': 16, 'num_targ_repr': 32, 'num_indisc_repr': 24}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 300), 'final_pop': 0, 'total_num_attacks': 316, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 38, 'num_indisc_conc': 32, 'num_targ_repr': 42, 'num_indisc_repr': 35}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 500), 'final_pop': 0, 'total_num_attacks': 332, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 49, 'num_indisc_conc': 54, 'num_targ_repr': 68, 'num_indisc_repr': 46}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 700), 'final_pop': 0, 'total_num_attacks': 312, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 66, 'num_indisc_conc': 66, 'num_targ_repr': 78, 'num_indisc_repr': 76}, {'params': (0.0001, 'NONE', 'high', 'high', 300, 900), 'final_pop': 0, 'total_num_attacks': 315, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], 'num_targ_conc': 77, 'num_indisc_conc': 112, 'num_targ_repr': 92, 'num_indisc_repr': 103}, {'params': (0.0001, 'NONE', 'high', 'high', 400, 200), 'final_pop': 0, 'total_num_attacks': 412, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]], 'num_targ_conc': 23, 'num_indisc_conc': 24, 'num_targ_repr': 18, 'num_indisc_repr': 21}, {'params': (0.0001, 'NONE', 'high', 'high', 400, 300), 'final_pop': 0, 'total_num_attacks': 430, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]], 'num_targ_conc': 27, 'num_indisc_conc': 38, 'num_targ_repr': 32, 'num_indisc_repr': 34}, {'params': (0.0001, 'NONE', 'high', 'high', 400, 500), 'final_pop': 0, 'total_num_attacks': 477, 'dominant_sentiments': [['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic'], ['sympathetic', 'sympathetic', 'sympathetic', 'sympathetic']], 'percent_dominant_sentiments': [[1.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]], 'num_targ_conc': 42, 'num_indisc_conc': 47, 'num_targ_repr': 45, 'num_indisc_repr': 68}]
+overall runtime for 11025 parameter combinations on 4 nodes        was 3.5357961654663086
